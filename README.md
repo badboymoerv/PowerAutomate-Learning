@@ -1,2 +1,4 @@
-# PowerAutomate-Learning
-Learning Microsoft Power Automate and SharePoint automation
+# Power Automate Learning
+
+This repository contains notes and experiments 
+for learning Microsoft Power Automate and SharePoint automation.
